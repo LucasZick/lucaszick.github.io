@@ -3,12 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"icons/android-chrome-192x192.png": "2c4fdb4144e0ee9750046a30dc3d64e1",
+  "icons/android-chrome-192x192.png": "2c4fdb4144e0ee9750046a30dc3d64e1",
 "icons/apple-touch-icon.png": "55a34c70ab93a2f589413b4fa549cfa7",
 "icons/android-chrome-512x512.png": "4c33cdee776efc4ec28bf0d7ca71aeae",
 "splash/img/dark-4x.png": "f3ed14c9b8fa3b67cb47c5d464c094a9",
@@ -22,8 +17,8 @@ const RESOURCES = {
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "c94c38ff00a9d487c353a2d78989ea08",
 "main.dart.js": "db91898a794433d5464fe3ead10fe967",
-"index.html": "0c3701e7427beb3a22bfef9661312642",
-"/": "0c3701e7427beb3a22bfef9661312642",
+"index.html": "458066395b2a78d1d80daa5085a0f38b",
+"/": "458066395b2a78d1d80daa5085a0f38b",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/FontManifest.json": "56acd6631c21c15079513e5d44c6c56b",
 "assets/AssetManifest.json": "12d36d9fe2452bd5ed171e4d8052c654",
